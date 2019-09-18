@@ -1,2 +1,10 @@
-# Projeto-Site
-Site pessoal
+# Projeto de site pessoal do zero! Usando Html/CSS/Bootstrap/Javascript
+
+HTML
+---
+CSS
+---
+BOOTSTRAP
+---
+JAVASCRIPT
+---
