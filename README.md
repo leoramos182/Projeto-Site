@@ -1,4 +1,4 @@
-# Projeto de site pessoal do zero! Usando Html/CSS/Bootstrap/Javascript
+# Projeto de site pessoal do zero! 
 
 HTML
 ---
